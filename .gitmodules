@@ -1,0 +1,3 @@
+[submodule "mylesapart/themes/minimal"]
+	path = mylesapart/themes/minimal
+	url = https://github.com/calintat/minimal.git
