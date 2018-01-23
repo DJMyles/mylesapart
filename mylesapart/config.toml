@@ -4,6 +4,10 @@ title = "Myles Apart"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
+config = "config.toml"
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
 
 [params]
     author = "Daniel Myles"
