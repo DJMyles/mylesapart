@@ -4,7 +4,8 @@ date: 2015-08-24
 tags: ["ISP","telecommunications"]
 draft: false
 ---
-![](/img/TTPG-buys-iinet.jpg)
+![](/img/TPG-buys-iinet.jpg#articleimg)
+
 There is a touch of irony in the notion of iiNet customers potentially having letters sent to them by offshore rights holder groups seeking compensation for alleged copyright infringement, forwarded on to them blindly by their new overlords.
 
 It's a theoretical prospect but a very real one.
@@ -28,7 +29,7 @@ Their attitude was contagious. It had a cascading effect through the ranks of th
 Let&rsquo;s talk about what an ethical ISP does&hellip;
 
 - The ethical ISP is one where generally a subscriber never has to call tech support. The service just works. When things do go wrong the matter is dealt with by a support officer manning a helpdesk which is not overburdened by a one hour wait time, who can speak very fluent English and knows his or her stuff.
-- The ethical ISP offers (http://freezone.iinet.net.au/)[quota free services] like Steam, Netflix, ABC iview and Xbox
+- The ethical ISP offers [quota free services](http://freezone.iinet.net.au/) like Steam, Netflix, ABC iview and Xbox
 - The ethical ISP offers free newsgroup access
 - The ethical ISP treats its customers with respect and appreciates their custom by continually bettering its service by engaging with those who are in the best position to provide informed feedback
 - An ethical ISP will actually address an issue in emails, not copy / paste then send pro forma email number #282 which barely relates to the topic at hand and does nothing to address said inquiry
@@ -37,7 +38,7 @@ Let&rsquo;s talk about what an ethical ISP does&hellip;
 - An ethical ISP will call out government or [another telco](http://delimiter.com.au/2010/09/27/telstra-playing-favourites-internode-claims/) on their bullshit when appropriate
 - An ethical ISP will not remain silent to leverage future benefits when something happens that firmly goes [against its moral compass](http://delimiter.com.au/2013/08/21/defying-the-federal-police-iinet-refuses-to-implement-interpol-filter/)
 - Last but probably most importantly, an ethical ISP has guys like Dalby, Malone and Hackett running the show
--
+
 So TPG have taken over all ISP&rsquo;s owned by iiNet. What&rsquo;s the big deal you ask? They are still operating under their existing brands. Nothing really has changed. It's early days but the signs are already there
 
 Let&rsquo;s talk about Fetch TV. Fact - the service wasn&rsquo;t that fantastic but regardless, it was a service offered to iiNet and Internode customers up till yesterday. It gave people who utilised it a PVR service for free to air TV and a gateway to movie hire and Netflix with its built in app. Yesterday [Fetch TV was pulled as a new service](http://www.gizmodo.com.au/2015/08/tpg-forces-iinet-to-ditch-fetch-tv-following-acquisition/) from the iiNet website with little to no communication from TPG.
@@ -55,11 +56,13 @@ Is it a bad thing? To answer that question let&rsquo;s examine what an ethical I
 - An ethical ISP takes a top down approach, customer focused attitude towards customer service. It&rsquo;s executive empower staff through good leadership via example
 - An ethical ISP doesn&rsquo;t use its [monopoly advantage](https://theconversation.com/news-corp-australia-vs-the-nbn-is-it-really-all-about-foxtel-16768) to cut competition out completely
 - An ethical ISP [maintains its network](http://delimiter.com.au/2013/09/20/deep-investigation-telstras-copper-network/) for the benefit of its customers, not its shareholders
--
+
 Apart from one of these points which relates to another incumbent ISP, do any of these ring a bell? In my opinion, the TPG take over brings to an end to the ethical ISP, the ISP who offers broadband to its customers as a service to provide them with connectivity and the benefits it brings, not just because they are another statistic corresponding to a KPI which will make shareholders smile.
 
 So how long will it be before the branding is stripped away and the copyright troll letters TPG customers are so familiar with start flowing the way of iiNet customers? It&rsquo;s a tragedy that the offshore interest groups iiNet has been so vehemently vigilant fighting against will soon be in the letter boxes of those iiNet so staunchly defended.
 
-The ethical ISP goes that extra mile. iiNet has run its last one.
+The ethical ISP goes that extra mile.
+
+iiNet has run its last one.
 
 Forever may it rest in peace.

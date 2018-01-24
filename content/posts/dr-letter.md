@@ -4,7 +4,8 @@ date: 2016-01-20
 tags: ["metadata","data retention","privacy","online rights"]
 draft: false
 ---
-![](/img/openletter.jpg))
+![](/img/openletter.jpg#articleimg)
+
 <div class="alert alert-info" role="alert">The following is a letter I have sent to several Labor MPs after a recent FOI request revealed that a further 61 local, state and federal agencies and government bodies have applied for access to metadata under the data retention scheme.
 
 **How is it possible that a scheme designed to combat terrorism and serious crime could attract applications from the majority of these bodies?**</div>

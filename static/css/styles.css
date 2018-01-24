@@ -1,3 +1,4 @@
-img[src$='#floatleft'] {
-	float:left;
+img[src$='#articleimg'] {
+	max-width: 250px !important;
+	max-height: 250px !important;
 }
