@@ -7,6 +7,7 @@ config = "config.toml"
 contentDir = "content"
 layoutDir = "layouts"
 publishDir = "public"
+paginate = 100
 
 [params]
     author = "Daniel Myles"
