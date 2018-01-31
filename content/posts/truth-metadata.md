@@ -13,7 +13,7 @@ Optus and Telstra must have been asleep when [Malcolm Turnbull stated](http://ww
 
 >"The important thing to understand about this metadata bill, these amendments, is that it is not creating new classes of data to be retained... it's about preserving the status quo."
 
-He isn't the only one saying these sorts of things. Our beloved Attorney General George Brandis has repeatedly suggested that nothing will change in regards to the content carriage providers will be expected to keep under a data retention regime, despite Brandis or anyone for that matter, not even knowing what that final data set will be. Remember that Sky News interview George did?
+He isn't the only one saying these sorts of things. Our beloved Attorney General George Brandis has repeatedly suggested that nothing will change in regards to the content carriage providers will be expected to keep under a data retention regime, despite Brandis or anyone for that matter, not even knowing what that final data set will be. Remember that [Sky News interview](https://www.youtube.com/watch?v=HGURYRjEiRI) George did?
 
 So if no extra data sets are being retained and by extension no further burden of storage placed upon ISP's and no changes to their current business practices, then why do so many of the submissions, including those from Optus and Telstra - talk about costs and who will pay for the scheme?
 
