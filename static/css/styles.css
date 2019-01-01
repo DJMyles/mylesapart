@@ -17,3 +17,7 @@ img + em {
 	display: block;
 	width: 250px;
 }
+
+main {
+	margin-top: 15px;
+}
