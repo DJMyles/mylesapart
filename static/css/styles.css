@@ -1,4 +1,19 @@
 img[src$='#articleimg'] {
+	display: block;
 	max-width: 250px !important;
 	max-height: 250px !important;
+	margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+img[src$='#bodyimg'] {
+	display: inline-grid;
+	max-width: 340px !important;
+}
+
+img + em {
+	font-size: 12px;
+	display: block;
+	width: 250px;
 }

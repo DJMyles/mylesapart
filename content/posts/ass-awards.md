@@ -5,7 +5,8 @@ tags: ["comedy","satire","privacy","online rights","telecommunications"]
 draft: false
 ---
 
-{{< figure src="/img/brandis-ass-awards.jpg" title="Malcolm Turnbull looks on in high praise of his colleague’s achievement at the ASS awards ceremony of 2015" >}}
+![](/img/brandis-ass-awards.jpg#articleimg)
+*Malcolm Turnbull looks on in high praise of his colleague’s achievement at the ASS awards ceremony of 2015*
 
 Beloved Attorney General, George Brandis QC, was today awarded the highest honour afforded to an individual in the coveted ASS awards, taking out the category of online excellence and innovation.
 
