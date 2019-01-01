@@ -7,7 +7,7 @@ draft: false
 
 ![](/img/drupal_8_logo_stacked.png#articleimg)
 
-I've spent my holidays working on a project I've been thinking about and planning for quite a while now. Whilst I'm not quite ready to reveal the specifics of said project quite yet (more on that early 2019), I'm keen to share my experiences on how to wrangle Drupal 8's many user forms in situations where you want to present a particular front facing theme to end users who will be making their own content using your CMS.
+I've spent my holidays working on a project I've been thinking about and planning for quite a while now. Whilst I'm not quite ready to reveal the specifics of said project yet (more on that early 2019), I'm keen to share my experiences on how to wrangle Drupal 8's many user forms in situations where you want to present a particular front facing theme to end users who will be making their own content using your CMS.
 
 I'm used to front end development in an environment where the end user is purely a consumer of the content. Any authentication, publishing and content creation is completely reserved for internal and is completely decoupled from the front end. With my newest project I'm creating a framework where the end user becomes an authenticated user and creates their own content.
 
